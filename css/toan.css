@@ -1,0 +1,85 @@
+table {
+  border-collapse: collapse;
+  background-color: aquamarine;
+  height: 160px;
+}
+
+input {
+  margin-left: -20px;
+}
+
+.input4 {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+  width: 60px;
+  background-color: blue;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.input4:hover {
+  background-color: green;
+}
+
+h1 {
+  background: rebeccapurple;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #ffefef;
+  border-radius: 5px;
+}
+
+.iput3 {
+  background-color: rgb(10, 243, 10);
+  border-radius: 4px;
+}
+
+.kq {
+  color: red;
+}
+
+label {
+  float: left;
+  width: 100px;
+  padding: 5px;
+  text-align: left;
+  margin-left: 25px;
+  font-weight: bold;
+}
+
+section {
+  clear: both;
+  padding: 8px;
+}
+
+.khung {
+  text-align: center;
+  width: 450px;
+  border-collapse: collapse;
+  border-radius: 10px;
+  border-width: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fd466b;
+  -webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.75);
+  box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.75);
+}
+
+h4 {
+  background: rgb(237, 243, 73);
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #531d1d;
+  border-radius: 5px;
+}
